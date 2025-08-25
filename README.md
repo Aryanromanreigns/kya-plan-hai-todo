@@ -40,15 +40,20 @@ This project is great for beginners who want to practice **React concepts** like
    git clone https://github.com/Aryanromanreigns/kya-plan-hai-todo.git
 Navigate into the project folder
 
+bash
+Copy
+Edit
 cd kya-plan-hai-todo
-
 Install dependencies (this will create node_modules/ locally, since it’s not uploaded to GitHub)
-```bash
+
+bash
+Copy
+Edit
 npm install
-
 Run the app
-```bash
-npm start
 
-```bash
-Open http://localhost:3000 in your browser
+bash
+Copy
+Edit
+npm start
+Open http://localhost:3000 in your browser 🎉
