@@ -47,6 +47,7 @@ Install dependencies (this will create node_modules/ locally, since it’s not u
 npm install
 
 Run the app
+
 npm start
 
 Open http://localhost:3000 in your browser
