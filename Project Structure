@@ -1,0 +1,26 @@
+kya-plan-hai-todo/              # Root folder (project name)
+│
+├── public/                     # Public assets served as-is
+│   ├── index.html              # Main HTML file
+│   ├── favicon.ico             # App icon
+│   └── manifest.json           # (optional) PWA settings
+│
+├── src/                        # All React source code
+│   ├── components/             # Reusable UI components
+│   │   ├── Header.jsx
+│   │   ├── TodoItem.jsx
+│   │   └── TodoList.jsx
+│   │
+│   ├── pages/                  # Full pages/screens
+│   │   └── Home.jsx
+│   │
+│   ├── App.js                  # Root React component
+│   ├── index.js                # Entry point for React DOM
+│   ├── App.css                 # Global styles
+│   └── index.css               # Tailwind/global resets
+│
+├── .gitignore                  # Ignore node_modules, build, etc.
+├── package.json                # Project dependencies & scripts
+├── package-lock.json           # Locked dependency versions
+├── README.md                   # Documentation for your project
+└── tailwind.config.js          # (if using Tailwind)
