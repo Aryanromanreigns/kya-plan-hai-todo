@@ -43,6 +43,7 @@ Navigate into the project folder
 cd kya-plan-hai-todo
 
 Install dependencies (this will create node_modules/ locally, since it’s not uploaded to GitHub)
+
 npm install
 
 Run the app
