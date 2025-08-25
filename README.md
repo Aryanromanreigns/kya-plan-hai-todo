@@ -47,7 +47,6 @@ cd kya-plan-hai-todo
    npm install
 
 Run the app
-
 npm start
 
 Open http://localhost:3000 in your browser 
